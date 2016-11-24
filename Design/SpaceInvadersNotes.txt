@@ -1,0 +1,25 @@
+Invaders:
+3 kinds
+11 columns
+5 rows
+
+
+Shields:
+4 rows
+5 columns
+5 types of bricks
+
+
+Audio:
+-- Done --
+* UFO enters
+* Alien destroyed
+* Alien fire
+* Player fire
+* Player destroyed
+* Shield brick destroyed
+-- To Do --
+Game Over
+UFO destroyed  (needs new)
+Alien march
+Extra life
